@@ -1,0 +1,18 @@
+Dataset/FaceData/processed\VietKhai\203781172_2641574189479882_6470366077626091412_n.png 332 303 1143 1400
+Dataset/FaceData/processed\VietKhai\201489658_2641574002813234_9079242020894935402_n.png 619 826 1189 1541
+Dataset/FaceData/processed\VietKhai\202773742_2641574079479893_7327108504623892434_n.png 499 723 1054 1446
+Dataset/FaceData/processed\VietKhai\201283484_2641573936146574_2735710729996265608_n.png 417 1006 963 1721
+Dataset/FaceData/processed\VietKhai\203004663_2641574146146553_9038220613448790323_n.png 460 784 1178 1760
+Dataset/FaceData/processed\VietKhai\202188713_2641573892813245_8219379334912784310_n.png 523 492 1188 1344
+Dataset/FaceData/processed\VietKhai\200886957_2641574112813223_2612504393428570885_n.png 337 796 923 1539
+Dataset/FaceData/processed\VietKhai\201029144_2641574046146563_1813468997509475165_n.png 421 592 1023 1387
+Dataset/FaceData/processed\VietKhai\201751129_2641573959479905_4796733469826631331_n.png 620 628 1167 1322
+Dataset/FaceData/processed\VietKhai\203859276_2641573852813249_731239431644586233_n.png 514 496 1133 1308
+Dataset/FaceData/processed\cr7\images (7).png 78 18 172 137
+Dataset/FaceData/processed\cr7\images.png 74 27 174 147
+Dataset/FaceData/processed\cr7\images (6).png 133 19 196 90
+Dataset/FaceData/processed\cr7\images (3).png 47 4 116 87
+Dataset/FaceData/processed\cr7\images (2).png 75 0 163 104
+Dataset/FaceData/processed\cr7\images (5).png 67 0 135 71
+Dataset/FaceData/processed\cr7\images (4).png 111 2 175 74
+Dataset/FaceData/processed\cr7\1.png 110 0 200 103
